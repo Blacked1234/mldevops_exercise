@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "my-project"
+version = "0.0.1"
+description = "Empty"
+authors = ["Your Name <you@example.com>"]
+license = "Whatever"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+transformers = "^4.46.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

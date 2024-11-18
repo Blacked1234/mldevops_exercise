@@ -1,0 +1,39 @@
+{
+  "os":  "macOS-13.5-arm64-arm-64bit",
+  "python":  "3.12.0",
+  "startedAt":  "2024-11-18T14:52:34.571385Z",
+  "program":  "/Users/mszymonek/PycharmProjects/mldevops_exercise/testingwandb.py",
+  "codePath":  "testingwandb.py",
+  "git":  {
+    "remote":  "https://github.com/Blacked1234/mldevops_exercise.git",
+    "commit":  "a926a23f23f547c45ecd21635acf30cc4eee5523"
+  },
+  "email":  "panpanowskibd@gmail.com",
+  "root":  "/Users/mszymonek/PycharmProjects/mldevops_exercise",
+  "host":  "MBP-Mateusz-2.lan",
+  "username":  "mszymonek",
+  "executable":  "/Users/mszymonek/PycharmProjects/mldevops_exercise/.venv/bin/python",
+  "codePathLocal":  "testingwandb.py",
+  "cpu_count":  8,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "245107195904",
+      "used":  "224341598208"
+    }
+  },
+  "memory":  {
+    "total":  "17179869184"
+  },
+  "cpu":  {
+    "count":  8,
+    "countLogical":  8
+  },
+  "apple":  {
+    "name":  "Apple M1",
+    "ecpuCores":  4,
+    "pcpuCores":  4,
+    "gpuCores":  8,
+    "memoryGb":  16
+  }
+}
